@@ -50,7 +50,7 @@ body {
 header {
   position: relative;
   height: 100vh;
-  background: url('../image/first-image.jpg') no-repeat center center/cover;
+  background: url(../image/first-image.jpg) no-repeat center center/cover;
 }
 
 /* start header section */
@@ -233,7 +233,7 @@ header .contant h1 {
   height: 180vh;
   display: flex;
   justify-content: center;
-  background: url('../image/backgroundtow.jpeg') no-repeat center center/cover;
+  background: url(../image/backgroundtow.jpeg) no-repeat center center/cover;
 }
 
 .offers .container .title h2,
